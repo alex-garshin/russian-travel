@@ -1,0 +1,29 @@
+.place__image {
+    width: calc(100% + 32px);
+    margin-left: -16px;
+    align-self: baseline;
+    margin-bottom: 32px;
+    display: block;
+  }
+  
+  
+  @media (min-width: 768px) {
+    .place__image {
+      width: 340px;
+      margin: 0;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .place__image {
+      width: 440px;
+      margin: 0;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    .place__image {
+      width: 460px;
+      margin: 0;
+    }
+  }

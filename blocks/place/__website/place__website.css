@@ -1,0 +1,17 @@
+.place__website {
+    margin-bottom: 32px;
+  }
+  
+  @media (min-width: 768px) {
+    .place__website {
+      margin-bottom: 20px;
+      align-self: flex-end;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .place__website {
+      margin-bottom: 0;
+    }
+  }
+  

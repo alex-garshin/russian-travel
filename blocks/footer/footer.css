@@ -1,0 +1,21 @@
+.footer {
+  margin-top: 64px;
+  color: white;
+  padding: 0 16px 24px;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 88px;
+    padding: 0 24px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .footer {
+    margin-top: 92px;
+    padding: 0 48px;
+  }
+}
