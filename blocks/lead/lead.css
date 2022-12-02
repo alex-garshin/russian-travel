@@ -11,12 +11,13 @@
 
 @media (min-width: 1024px) {
   .lead {
-    margin-bottom: 92px;
+    margin: 56px 48px 92px;
   }
 }
 
 @media (min-width: 1280px) {
   .lead {
+    margin: 56px 148px 92px;
     margin-top: 56px;
   }
 }

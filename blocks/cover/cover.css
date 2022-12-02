@@ -15,3 +15,10 @@
     margin-bottom: 92px;
   }
 }
+
+@media (min-width: 1280px) {
+  .cover {
+    margin: 0 48px 92px;
+    width: auto;
+  }
+}

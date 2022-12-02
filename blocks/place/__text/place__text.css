@@ -14,8 +14,10 @@
 @media (min-width: 768px) {
   .place__text {
     align-self: baseline;
+    
   }
 }
+
 @media (min-width: 1024px) {
   .place__text {
     font-size: 18px;

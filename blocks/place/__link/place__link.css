@@ -4,8 +4,15 @@
   cursor: pointer;
   font-size: 18px;
   line-height: 22px;
+  margin-left: 16px;
 }
 
 .place__link:hover {
   opacity: 0.8;
+}
+
+@media (min-width: 768px) {
+  .place__link {
+    margin: 0;
+  }
 }
