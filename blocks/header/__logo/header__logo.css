@@ -7,15 +7,3 @@
     height: 52px;
   }
 }
-
-@media (min-width: 1024px) {
-  .header__logo {
-    height: 52px;
-  }
-}
-
-@media (min-width: 1280px) {
-  .header__logo {
-    height: 52px;
-  }
-}

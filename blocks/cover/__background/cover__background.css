@@ -31,14 +31,9 @@
   background-color: rgb(42, 44, 47, 0.8);
 }
 
-.cover__background:hover {
-  background-color: rgb(42, 44, 47, 0.2);
-}
-
 @media (min-width: 768px) {
   .cover__background {
     margin-top: 90px;
-    width: 100%;
     min-height: 480px;
   }
 }

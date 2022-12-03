@@ -5,6 +5,7 @@
   font-size: 12px;
   line-height: 12px;
   color: #aaaaaa;
+  letter-spacing: 2px;
 }
 
 @media (min-width: 768px) {

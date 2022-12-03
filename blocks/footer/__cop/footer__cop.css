@@ -7,7 +7,6 @@
 
 @media (min-width: 768px) {
   .footer__cop {
-    margin-top: 0;
     position: relative;
     line-height: 16px;
   }
